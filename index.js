@@ -22,3 +22,5 @@ function sayHiToGrandma(string)
 {
   return string.toLowerCase()
 }
+
+sayHiToGrandma('Hello')
